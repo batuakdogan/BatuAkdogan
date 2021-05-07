@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BatuAkdogan
-- 👀 I’m interested in ... Full stack 
+- 👋 Hi, I’m Batu Akdoğan
+- 👀 I’m interested in ... object oriented programming 
 - 🌱 I’m currently learning ... Java & Spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... batudev21@gmail.com
