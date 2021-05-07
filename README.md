@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Batu Akdoğan
-- 👀 I’m interested in ... Object oriented programming 
+- 👀 I’m interested in ... Back-End  
 - 🌱 I’m currently learning ... Java & Spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... batudev21@gmail.com
