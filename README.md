@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Batu Akdoğan
-- 👀 I’m interested in ... Back-End  
-- 🌱 I’m currently learning ... Java & Spring
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Full-Stack 
+- 🌱 I’m currently learning ... C++
 - 📫 How to reach me ... batudev21@gmail.com
 
 <!---
