@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Batu Akdoğan
 - 👀 I’m interested in ... Full-Stack 
-- 🌱 I’m currently learning ... Golang
+- 🌱 I’m currently learning ... Swift
 - 📫 How to reach me ... batudev21@gmail.com
 
 
