@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batu Akdoğan</h1>
-- 📫 How to reach me **batudev21@gmail.com**
+- 📫 How to reach me @batudev21@gmail.com
 
 
 
